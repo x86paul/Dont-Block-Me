@@ -10,6 +10,9 @@ Identify: Look through the list of connected devices
 Analyze: Real devices have low Packet Loss (PL). The anomaly has high latency and high PL.
 Terminate: Click on the suspicious node before it indexes your entire home network.
 Survive: Reach Round 50 to disconnect the Listener permanently.
+##  Play Now
+**Play the latest build directly in your browser on itch.io:**
+[ Click here to play Don't Block Me](https://x86paul.itch.io/dont-block-me)
 
 
 ## Features
