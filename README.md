@@ -24,15 +24,11 @@ BIOS Simulation: Custom game-over state modeled after legacy American Megatrends
 #### WARNING: If you hear breathing on localhost, do not look behind you. Keep your eyes on the terminal.
 
 ## Media
-
-<img width="747" height="611" alt="Screenshot 2026-04-29 093754" src="https://github.com/user-attachments/
-assets/e0cae3ab-73fa-4700-9e7f-913143dcf17a" />
-
-<img width="833" height="496" alt="Screenshot 2026-04-29 093823" src="https://github.com/user-attachments/
-assets/a5ef92f6-f26e-4d62-92a9-aa2c65295310" />
-
-<img width="1114" height="622" alt="Screenshot 2026-04-29 093946" src="https://github.com/user-attachments/
-assets/3825ced6-4ea9-4e2b-b44d-ea1b2869fce6" />
-
-<img width="768" height="536" alt="Screenshot 2026-04-29 094036" src="https://github.com/user-attachments/
-assets/d2a0f85b-47a5-42e5-bcd1-b71179e254e9" />
+<img width="747" height="611" alt="Screenshot 2026-04-29 093754" src="https://github.com/user-attachments/assets/8522dc04-c981-4bc9-8f21-7fc50987f5f8" />
+1
+<img width="833" height="496" alt="Screenshot 2026-04-29 093823" src="https://github.com/user-attachments/assets/db4dbd4e-db72-4081-b4c0-d703f7aacae5" />
+2
+<img width="1114" height="622" alt="Screenshot 2026-04-29 093946" src="https://github.com/user-attachments/assets/3be8acd8-b19b-4f8f-b215-8c3ae1538985" />
+3
+<img width="768" height="536" alt="Screenshot 2026-04-29 094036" src="https://github.com/user-attachments/assets/fdd4fd94-08d5-484b-a26f-4c3c97d1a471" />
+4
