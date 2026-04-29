@@ -35,3 +35,6 @@ BIOS Simulation: Custom game-over state modeled after legacy American Megatrends
 3
 <img width="768" height="536" alt="Screenshot 2026-04-29 094036" src="https://github.com/user-attachments/assets/fdd4fd94-08d5-484b-a26f-4c3c97d1a471" />
 4
+
+## AI Usage
+I have used google gemini for helping me with coding in godot.
